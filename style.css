@@ -7,7 +7,7 @@ body {
   font-size: x-large;
 }
 
-/*animations dont do anything right now, just for practice*/
+/*animations arent being used, just for practice*/
 
 @keyframes rotateAnim {
   from {
@@ -99,7 +99,7 @@ body {
 }
 
 .pictureFrame {
-  display: flex;
+  display: inline;
   justify-content: left;
   height: 280px;
   width: 280px;
